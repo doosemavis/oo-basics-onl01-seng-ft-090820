@@ -7,6 +7,7 @@ class Shoe
   end
   
   def cobble
+    @cobber = new
     puts "Your shoe is as good as new!"
   end
   
